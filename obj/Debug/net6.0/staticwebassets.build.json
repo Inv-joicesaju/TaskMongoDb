@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "thM6lCerAUV1GMwWXdBbJF3gbRWmLkUFFxZaRBIgJ6w=",
+  "Source": "TaskMongoDb",
+  "BasePath": "_content/TaskMongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
