@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMongoDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e98533f766922868bd5a0aeb9e61673c6653461f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMongoDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMongoDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
